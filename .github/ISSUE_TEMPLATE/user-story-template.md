@@ -7,8 +7,10 @@ assignees: ''
 
 ---
 
-As a USER
+User Story:
 
-I Can: ACTION
 
-So That: BENEFIT
+Acceptance criteria:
+
+
+Tasks:
