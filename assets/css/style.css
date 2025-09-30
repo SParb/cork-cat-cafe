@@ -14,7 +14,16 @@ body {
 #navbar{    
     background-color: var(--primary-color);
 }
-#navbar h1{
+#navheader{
     font-size: 1.5rem;
-    padding-top: 1rem;
+    padding-top: 0.5rem;
+}
+
+#navlogo{
+    padding-right: 2rem;
+}
+
+/*Footer*/
+#contact {
+    background-color: var(--primary-color);
 }
