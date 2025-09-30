@@ -3,6 +3,7 @@
 
 :root{
     --primary-font: "Nunito", "Rubik";
+    --primary-color:orange;
 }
 body {
     font-family: var(--primary-font);
@@ -10,3 +11,10 @@ body {
 }
 
 /* nav */
+#navbar{    
+    background-color: var(--primary-color);
+}
+#navbar h1{
+    font-size: 1.5rem;
+    padding-top: 1rem;
+}
