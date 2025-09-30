@@ -22,8 +22,25 @@ body {
 #navlogo{
     padding-right: 2rem;
 }
+/*Header*/
+#hero{
+    background-image:url("../images/Cat-cafe-3.jpg");
+    min-height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
 
+#herocontent{
+    background-color: rgba(127, 255, 212,0.3);
+    max-width: 150px;
+    position:absolute;
+    top:40px;   
+}
 /*Footer*/
 #contact {
     background-color: var(--primary-color);
+    padding-bottom: 4rem;
+    
 }
