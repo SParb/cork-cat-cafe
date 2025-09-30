@@ -2,12 +2,14 @@
 
 
 :root{
-    --primary-font: "Nunito", "Rubik";
+    --primary-font: "Nunito", sans-serif;
+    --secondary-font:"Rubik", cursive;
     --primary-color:orange;
+    --secondary-color:lightblue;
 }
 body {
     font-family: var(--primary-font);
-    background-color: lightblue;
+    background-color: var(--secondary-color);
 }
 
 /* nav */
@@ -38,9 +40,38 @@ body {
     position:absolute;
     top:40px;   
 }
+
+/*Main*/
+#about .card {
+    margin-bottom: 1rem;
+}
+
+#about .card-img-bottom {
+    max-height: 303px;
+    object-fit: contain;
+}
+
 /*Footer*/
 #contact {
     background-color: var(--primary-color);
     padding-bottom: 4rem;
-    
+    max-height: 400px;
+}
+
+
+
+/*Media queries*/
+
+@media screen and (min-width:768px) {
+    #herocontent {
+        max-width: 300px;
+        top:100px;
+    }
+}
+
+@media screen and (min-width:992px) {
+    #herocontent {
+        max-width: 400px;
+        top:200px;
+    }
 }
