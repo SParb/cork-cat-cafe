@@ -36,6 +36,57 @@
         
     </header>
     <!--Main-->
+    <section id="booking-form" class="container section">
+            <div class="row justify-content-center">
+                <div class="col-12 col-md-8">
+                    <h2>Booking</h2>
+                    <form action="success.html" method="GET">
+                        <div class="row">
+                            <div class="col-12 col-lg-6 mb-3">
+                                <label for="name" class="form-label">Name</label>
+                                <input class="form-control" id="name" name="name" type="text" required>
+                            </div>
+                            <div class="col-12 col-lg-6 mb-3">
+                                <label for="phone" class="form-label">Phone number</label>
+                                <input class="form-control" id="phone" name="phone" type="number" required>
+                            </div>
+                            <div class="col-12 mb-3">
+                                <label for="email" class="form-label">Email</label>
+                                <input class="form-control" id="email" name="email" type="email" required>
+                            </div>
+                            <div class="col-12 col-lg-6 mb-3">
+                                <label for="date" class="form-label">Date</label>
+                                <input class="form-control" id="date" name="date" type="date" required>
+                            </div>
+                            <div class="col-12 col-lg-6 mb-3">
+                                <label for="time" class="form-label">Time</label>
+                                <input class="form-control" id="time" name="time" type="time" min="9:00" max="18:00" required>
+                            </div>
+                            <div class="col-12 col-lg-6 mb-3">
+                                <label for="event-type" class="form-label">Want to reserve a specific cat? <br>(see gallery for images)</label>
+                                <select id="event-type" class="form-select" name="event-type" required>
+                                    <option value="dontmind" selected>I don't mind</option>
+                                    <option value="bucky">Bucky</option>
+                                    <option value="echo">Echo</option>
+                                    <option value="leo">Leo</option>
+                                    <option value="ollie">Ollie</option>
+                                    <option value="pepper">Pepper</option>
+                                    <option value="shadow">Shadow</option>
+                                    <option value="toto">Toku</option>
+                                    <option value="Toto">Toto</option>
+                                </select>
+                            </div>
+                            <div class="col-12 mb-3">
+                                <label for="message" class="form-label">Additional requests</label>
+                                <textarea class="form-control" rows="4" id="message" name="message"></textarea>
+                            </div>
+                        </div>
+
+                        <button type="submit" class="btn custom-button-outline mb-4">Submit</button>
+                    </form>
+                </div>
+            </div>
+        </section>
     <main>
         <section id="about" class="container section">
             <div class="row">

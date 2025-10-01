@@ -9,19 +9,22 @@
     --tertiary-color:rgba(229, 75, 75, 0.5);
     --primary-font-color:#1E1E24;
     --secondary-font-color:#444140;
-    --nav-padding:50px;
 }
 body {
     font-family: var(--primary-font);
     background-color: var(--secondary-color);
-    padding-top:var(--nav-padding);
+    padding-top:50px;
     color:var(--primary-font-color);
 }
 
+.section {
+    padding-top:62px;
+}
 
 /* nav */
 #navbar{    
     background-color: var(--primary-color);
+    border-bottom: 1px solid var(--primary-font-color);
 }
 #navheader{
     font-size: 1.5rem;
@@ -56,10 +59,6 @@ body {
 
 /*Main*/
 
-#about{
-    padding-top: var(--nav-padding);
-}
-
 #about .card {
     margin-bottom: 1rem;
 }
@@ -71,7 +70,7 @@ body {
     background-color: var(--primary-color);
     padding-top: 1rem;
     padding-bottom: 4rem;
-    max-height: 400px;
+    min-height: 400px;
 }
 
 #contact .social-links i {
