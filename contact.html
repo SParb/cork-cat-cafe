@@ -33,14 +33,20 @@
     </nav>
     <!--Header-->
     <header>
-        
+        <div class="row justify-content-center section">
+            <div class="col-12 col-md-8 text-center">
+                <h1 class="display-3">Send us a message!</h1>
+                <p class="my-3 lead">
+                    Want to send us feedback or just ask a question?
+                </p>
+            </div>
+        </div>
     </header>
     <!--Main-->
-    <section id="message-form" class="container section">
+    <main>
+        <section id="message-form" class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-md-8">
-                    <h2>Send us a message!</h2>
-                    <p>Want to send us feedback or just ask a question?</p>
                     <form action="success.html" method="GET">
                         <div class="row">
                             <div class="col-12 col-lg-6 mb-3">
@@ -57,17 +63,12 @@
                             </div>
                             <div class="col-12 mb-3">
                                 <label for="message" class="form-label">Your message</label>
-                                <textarea class="form-control" rows="6" id="message" name="message"></textarea>
+                                <textarea class="form-control" rows="6" id="message" name="message" required></textarea>
                             </div>
                         </div>
                         <button type="submit" class="btn btn-no-fill mb-4">Submit</button>
                     </form>
                 </div>
-            </div>
-        </section>
-    <main>
-        <section id="about" class="container section">
-            <div class="row">
             </div>
         </section>
     </main>
@@ -84,7 +85,7 @@
                         Co. Cork
                     </address>
                     <h2>Contact Details</h2>
-                    <p>021 880 0812<br>corkcatcafe@gmail.com</p>
+                    <p><i class="fa-solid fa-phone"></i>021 880 0812<br><i class="fa-solid fa-envelope"></i>corkcatcafe@gmail.com</p>
                 </div>
                 <div class="col-12 col-lg-4">
                     <h2>Contact Online</h2>

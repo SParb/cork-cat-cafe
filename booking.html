@@ -26,21 +26,27 @@
                     <li class="nav-item"><a class="nav-link" href="contact.html">Contact Us</a></li>
                     <li class="nav-item"><a class="nav-link" href="index.html#about">About</a></li>
                     <li class="nav-item"><a class="nav-link" href="gallery.html">Gallery</a></li>
-                    <li class="nav-item"><a class="nav-link active" aria-current="page"href="">Booking</a></li>
+                    <li class="nav-item"><a class="nav-link active" aria-current="page" href="">Booking</a></li>
                 </ul>
             </div>
         </div>
     </nav>
     <!--Header-->
     <header>
-        
+        <div class="row justify-content-center section">
+            <div class="col-12 col-md-8 text-center">
+                <h1 class="display-3">Booking</h1>
+                <p class="my-3 lead">
+                    Want to secure a spot with our feline friends?
+                </p>
+            </div>
+        </div>
     </header>
     <!--Main-->
-    <section id="booking-form" class="container section">
+    <main>
+        <section id="booking-form" class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-md-8">
-                    <h2>Booking</h2>
-                    <p>Want to secure a spot with our feline friends?</p>
                     <form action="success.html" method="GET">
                         <div class="row">
                             <div class="col-12 col-lg-6 mb-3">
@@ -61,10 +67,13 @@
                             </div>
                             <div class="col-12 col-lg-6 mb-3">
                                 <label for="time" class="form-label">Time</label>
-                                <input class="form-control" id="time" name="time" type="time" min="9:00" max="18:00" required>
+                                <input class="form-control" id="time" name="time" type="time" min="9:00" max="18:00"
+                                    required>
                             </div>
                             <div class="col-12 col-lg-6 mb-3">
-                                <label for="event-type" class="form-label">Want to reserve a specific cat? <br>(see gallery for images)</label>
+                                <label for="event-type" class="form-label">Want to reserve a specific cat? <br>(see
+                                    gallery
+                                    for images)</label>
                                 <select id="event-type" class="form-select" name="event-type" required>
                                     <option value="dontmind" selected>I don't mind</option>
                                     <option value="bucky">Bucky</option>
@@ -88,11 +97,6 @@
                 </div>
             </div>
         </section>
-    <main>
-        <section id="about" class="container section">
-            <div class="row">
-            </div>
-        </section>
     </main>
     <!--Footer-->
     <footer id="contact" class="mt-auto">
@@ -107,7 +111,7 @@
                         Co. Cork
                     </address>
                     <h2>Contact Details</h2>
-                    <p>021 880 0812<br>corkcatcafe@gmail.com</p>
+                    <p><i class="fa-solid fa-phone"></i>021 880 0812<br><i class="fa-solid fa-envelope"></i>corkcatcafe@gmail.com</p>
                 </div>
                 <div class="col-12 col-lg-4">
                     <h2>Contact Online</h2>
@@ -154,4 +158,5 @@
             });
     </script>
 </body>
+
 </html>

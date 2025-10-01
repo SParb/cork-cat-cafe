@@ -78,20 +78,30 @@ body {
     padding-top: 1rem;
     padding-bottom: 4rem;
     min-height: 400px;
+    border-top: 1px solid var(--primary-font-color);
 }
 
 #contact .social-links i {
-    color: black;
-    font-size: 1.9rem;
+    color: var(--primary-font-color);
+    font-size: 3rem;
 }
 
 #contact .social-links i:hover {
-    color: darkblue;
+    color: var(--secondary-font-color);
 }
 
+#contact .btn-no-fill {
+    font-size: 150%;
+}
+
+#contact i {
+    color: var(--primary-font-color);
+    font-size: 1.1rem;
+    margin-right: 5px;
+}
 
 /*Media queries*/
-
+/*md*/
 @media screen and (min-width:768px) {
     #herocontent {
         max-width: 300px;
@@ -99,11 +109,13 @@ body {
         font-size: 125%;
     }
 }
-
+/*lg*/
 @media screen and (min-width:992px) {
     #herocontent {
         max-width: 400px;
         top:150px;
         font-size: 150%;
     }
+
+
 }
