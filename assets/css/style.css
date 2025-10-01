@@ -6,7 +6,7 @@
     --secondary-font:"Caveat", cursive;
     --primary-color:#FFA987;
     --secondary-color:#F7EBE8;
-    --tertiary-color:rgba(229, 75, 75, 0.6);
+    --tertiary-color:rgba(229, 75, 75, 0.7);
     --primary-font-color:#1E1E24;
     --secondary-font-color:#444140;
 }
@@ -46,7 +46,17 @@ body {
 
 #navbar a{
     font-size: 1.5rem;
+    border-radius: 50px;
 }
+#navbar a:hover{
+    background-color: var(--tertiary-color);
+    border-radius: 50px;
+}
+#navbar .active{
+    text-decoration: underline;
+}
+
+
 /*Header*/
 #hero{
     background-image:url("../images/Cat-cafe-3.jpg");
@@ -60,10 +70,11 @@ body {
 
 #herocontent{
     background-color: var(--tertiary-color);
-    max-width: 150px;
+    max-width: 155px;
     position:absolute;
-    top:40px;  
+    top:50px;  
     border-radius: 0 10px 10px 0;
+    padding:5px;
 }
 
 /*Main*/
@@ -134,6 +145,11 @@ body {
         top:150px;
         font-size: 150%;
     }
-
-
+}
+/*xl*/
+@media screen and (min-width:1200px) {
+    #herocontent {
+        max-width: 40%;
+        padding-left: 12%;
+    }
 }
