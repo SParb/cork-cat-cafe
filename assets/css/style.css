@@ -88,7 +88,7 @@ body {
 }
 
 .card-body p{
-    font-size: 200%;
+    font-size: 2rem;
 }
 
 #about {
@@ -144,7 +144,7 @@ body {
 }
 
 #contact .btn-no-fill {
-    font-size: 150%;
+    font-size: 1.5rem;
 }
 
 #contact i {
@@ -170,7 +170,7 @@ body {
     #herocontent {
         max-width: 400px;
         top: 150px;
-        font-size: 150%;
+        font-size: 1.5rem;
     }
     #gallery .card-body{
     min-height: 260px;
