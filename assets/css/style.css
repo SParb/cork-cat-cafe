@@ -1,105 +1,123 @@
-@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap");
 
-
-:root{
+:root {
     --primary-font: "Nunito", sans-serif;
-    --secondary-font:"Caveat", cursive;
-    --primary-color:#FFA987;
-    --secondary-color:#F7EBE8;
-    --tertiary-color:rgba(229, 75, 75, 0.7);
-    --primary-font-color:#1E1E24;
-    --secondary-font-color:#444140;
+    --secondary-font: "Caveat", cursive;
+    --primary-color: #ffa987;
+    --secondary-color: #f7ebe8;
+    --tertiary-color: rgba(229, 75, 75, 0.7);
+    --primary-font-color: #1e1e24;
+    --secondary-font-color: #444140;
 }
 body {
     font-family: var(--primary-font);
     background-color: var(--secondary-color);
-    padding-top:50px;
-    color:var(--primary-font-color);
+    padding-top: 50px;
+    color: var(--primary-font-color);
 }
 
 .section {
-    padding-top:40px;
+    padding-top: 40px;
 }
 
 /*buttons*/
-.btn-no-fill{
+.btn-no-fill {
     border: 2px solid var(--secondary-font-color);
+    background-color: var(--secondary-color);
 }
-.btn-no-fill:hover{
+.btn-no-fill:hover {
     background-color: var(--tertiary-color);
     border: 2px solid var(--secondary-font-color);
 }
 
 /* nav */
-#navbar{    
+#navbar {
     background-color: var(--primary-color);
     border-bottom: 1px solid var(--primary-font-color);
 }
-#navheader{
+#navheader {
     font-size: 1.5rem;
     padding-top: 0.5rem;
 }
 
-#navlogo{
+#navlogo {
     padding-right: 2rem;
 }
 
-#navbar a{
+#navbar a {
     font-size: 1.5rem;
     border-radius: 50px;
 }
-#navbar a:hover{
+#navbar a:hover {
     background-color: var(--tertiary-color);
     border-radius: 50px;
 }
-#navbar .active{
+#navbar .active {
     text-decoration: underline;
 }
 
-
 /*Header*/
-#hero{
-    background-image:url("../images/Cat-cafe-3.jpg");
+#hero {
+    background-image: url("../images/Cat-cafe-3.jpg");
     min-height: 400px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     position: relative;
-
 }
 
-#herocontent{
+#herocontent {
     background-color: var(--tertiary-color);
     max-width: 155px;
-    position:absolute;
-    top:50px;  
+    position: absolute;
+    top: 50px;
     border-radius: 0 10px 10px 0;
-    padding:5px;
+    padding: 5px;
 }
 
 /*Main*/
-#about{
-    padding-top: 62px;
+.card-body{
+    font-family: var(--secondary-font);
+    background-color: whitesmoke;
+}
+#about {
+    padding-top: 70px;
 }
 
 #about .card {
     margin-bottom: 1rem;
+    border-radius: 0px;
+}
+#about img {
+    border-radius: 0px;
 }
 
-#gallery img,
-#gallery .card {
+#gallery img {
     border-radius: 20px 20px 0 0;
 }
 
-#gallery .card{
-    margin-bottom: 1rem;
-    border-bottom-left-radius: 5px;
-    border-bottom-right-radius: 5px;
+#gallery img:hover{
+    transform: scale(1.8);
+    z-index: 1;
+    border-radius: 20px ;
 }
 
-#gallery .card-body {
-    font-family: var(--secondary-font);
+#gallery .card {
+    margin-bottom: 1rem;
+    border-radius: 20px 20px 5px 5px;
 }
+
+
+.card-body h2,
+.card-body h3 {
+    font-size: 300%;
+    border-bottom: 1px dashed var(--tertiary-color);
+}
+.card-body p{
+    font-size: 200%;
+}
+    
+
 
 /*Footer*/
 #contact {
@@ -131,23 +149,29 @@ body {
 
 /*Media queries*/
 /*md*/
-@media screen and (min-width:768px) {
+@media screen and (min-width: 768px) {
     #herocontent {
         max-width: 300px;
-        top:100px;
+        top: 100px;
         font-size: 125%;
     }
+    #gallery .card-body{
+    min-height: 211px;
+}
 }
 /*lg*/
-@media screen and (min-width:992px) {
+@media screen and (min-width: 992px) {
     #herocontent {
         max-width: 400px;
-        top:150px;
+        top: 150px;
         font-size: 150%;
     }
+    #gallery .card-body{
+    min-height: 260px;
+}
 }
 /*xl*/
-@media screen and (min-width:1200px) {
+@media screen and (min-width: 1200px) {
     #herocontent {
         max-width: 40%;
         padding-left: 12%;
