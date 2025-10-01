@@ -80,6 +80,17 @@ body {
     font-family: var(--secondary-font);
     background-color: whitesmoke;
 }
+
+.card-body h2,
+.card-body h3 {
+    font-size: 300%;
+    border-bottom: 1px dashed var(--tertiary-color);
+}
+
+.card-body p{
+    font-size: 200%;
+}
+
 #about {
     padding-top: 70px;
 }
@@ -106,18 +117,13 @@ body {
     margin-bottom: 1rem;
     border-radius: 20px 20px 5px 5px;
 }
-
-
-.card-body h2,
-.card-body h3 {
-    font-size: 300%;
-    border-bottom: 1px dashed var(--tertiary-color);
+.male-icon{
+    color: rgb(55, 55, 255);
 }
-.card-body p{
-    font-size: 200%;
-}
-    
 
+.female-icon{
+    color:rgb(255, 104, 129)
+}
 
 /*Footer*/
 #contact {
