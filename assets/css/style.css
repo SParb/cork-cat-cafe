@@ -4,16 +4,19 @@
 :root{
     --primary-font: "Nunito", sans-serif;
     --secondary-font:"Rubik", cursive;
-    --primary-color:orange;
-    --secondary-color:lightblue;
+    --primary-color:#FFA987;
+    --secondary-color:#F7EBE8;
+    --tertiary-color:rgba(229, 75, 75, 0.5);
+    --primary-font-color:#1E1E24;
+    --secondary-font-color:#444140;
     --nav-padding:50px;
 }
 body {
     font-family: var(--primary-font);
     background-color: var(--secondary-color);
     padding-top:var(--nav-padding);
+    color:var(--primary-font-color);
 }
-
 
 
 /* nav */
@@ -44,10 +47,11 @@ body {
 }
 
 #herocontent{
-    background-color: rgba(16, 255, 119, 0.4);
+    background-color: var(--tertiary-color);
     max-width: 150px;
     position:absolute;
-    top:40px;   
+    top:40px;  
+    border-radius: 0 10px 10px 0;
 }
 
 /*Main*/
