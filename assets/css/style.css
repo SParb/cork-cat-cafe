@@ -84,7 +84,7 @@ body {
 .card-body h2,
 .card-body h3 {
     font-size: 300%;
-    border-bottom: 1px dashed var(--tertiary-color);
+    border-bottom: 1px solid var(--tertiary-color);
 }
 
 .card-body p{
@@ -102,6 +102,20 @@ body {
 #about img {
     border-radius: 0px;
 }
+
+#about .table *{
+    background-color: transparent;  
+}
+#about .table *{
+    background-color: transparent;  
+}
+
+#menu-table td:nth-child(3),
+#menu-table th:nth-child(3) {
+    border-left: 1px solid rgba(0, 0, 0, 0.175);
+}
+
+
 
 #gallery img {
     border-radius: 20px 20px 0 0;
@@ -181,5 +195,8 @@ body {
     #herocontent {
         max-width: 40%;
         padding-left: 12%;
+    }
+    #about .card{
+        min-height: 672px;
     }
 }
