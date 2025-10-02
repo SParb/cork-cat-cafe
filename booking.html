@@ -47,6 +47,7 @@
         <section id="booking-form" class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-md-8">
+                    <h2 hidden>booking</h2>
                     <form action="success.html" method="GET">
                         <div class="row">
                             <div class="col-12 col-lg-6 mb-3">
@@ -67,7 +68,7 @@
                             </div>
                             <div class="col-12 col-lg-6 mb-3">
                                 <label for="time" class="form-label">Time</label>
-                                <input class="form-control" id="time" name="time" type="time" min="9:00" max="18:00"
+                                <input class="form-control" id="time" name="time" type="time"
                                     required>
                             </div>
                             <div class="col-12 col-lg-6 mb-3">
@@ -75,7 +76,7 @@
                                     gallery
                                     for images)</label>
                                 <select id="event-type" class="form-select" name="event-type" required>
-                                    <option value="dontmind" selected>I don't mind</option>
+                                    <option value="" selected>I don't mind</option>
                                     <option value="bucky">Bucky</option>
                                     <option value="echo">Echo</option>
                                     <option value="leo">Leo</option>
