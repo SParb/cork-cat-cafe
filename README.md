@@ -1,4 +1,3 @@
-![Cork Cat Cafe Homepage](readme-resources/homepage.png)
 # Cork Cat Cafe
 
 Welcome to the Cork Cat Cafe website! This project is designed for cat lovers in Cork city who want to enjoy a relaxing coffeehouse experience while hanging out with friendly cats.
