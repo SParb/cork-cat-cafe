@@ -118,12 +118,11 @@ To ensure smooth development, we followed these steps and milestones:
 
 ## Live Website
 
-Visit the website: https://sparb.github.io/cork-cat-cafe/
+[Visit the website](https://sparb.github.io/cork-cat-cafe/)
 
 ## The Cats
 
-The stars of the cafe! Each cat has its own personality and story. Come visit and meet them all.  
-https://sparb.github.io/cork-cat-cafe/gallery.html
+The stars of the cafe! Each cat has its own personality and story. [Come visit and meet them all](https://sparb.github.io/cork-cat-cafe/gallery.html).  
 
 ---
 
