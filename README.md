@@ -60,7 +60,7 @@ To ensure a smooth development process, we have outlined the following steps and
   ![Wireframe 5](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe5.png)
   
 - **Development:**
-  Build the website using HTML, CSS, and JavaScript. Using also the bootstrap framework, icons from fontawesome.com andfonts from googlefonts.com. Also use Balsamiq for the wireframes.
+  Build the website using HTML, CSS, and JavaScript. Using also the bootstrap framework, icons from fontawesome.com, fonts from googlefonts.com and a colour pallete from coolor.com.
   
 - **Content Creation:**
   Collect information and photos of the cats alongside images of the interior of the café.
@@ -86,6 +86,7 @@ To ensure a smooth development process, we have outlined the following steps and
 - **Google Fonts**
 - **Font awesome**
 - **Balsamiq**
+- **Coolor**
 
 ## Testing
   Review the site for usability, responsiveness, and bug fixes across different devices and browsers.
