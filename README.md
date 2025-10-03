@@ -75,7 +75,12 @@ To ensure a smooth development process, we have outlined the following steps and
 
 - Browse information about our cats and cafe offerings
 - See photos and details of the cats you’ll meet
-- Learn about our menu and upcoming events
+
+  ![gallery](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/gallery.png)
+  
+- Learn about who we are and our menu and opening times
+
+  ![about1](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/about-cards.png)
 
 ## Technologies/Resources Used
 
