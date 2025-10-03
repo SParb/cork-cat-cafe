@@ -25,16 +25,27 @@ To ensure a smooth development process, we have outlined the following steps and
   
   I want to be able to see the prices, menu options and opening times on the homepage of the website.
   
-- **Design:** Create wireframes and mockups for the site’s layout, focusing on accessibility and visual appeal. (wireframes presented below)
-  
+- **Design:** Create wireframes and mockups for the site’s layout using Balsamiq, focusing on accessibility and visual appeal. (wireframes presented below)
+
+  **Screenshots of the wireframes that show the website from a mobile and desktop view**
+
+  Homepage
   ![Wireframe 1](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe1.png)
+
+  Contact page
   ![Wireframe 2](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe2.png)
+
+  Gallery page
   ![Wireframe 3](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe3.png)
+
+  Form success page
   ![Wireframe 4](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe4.png)
+
+  Booking page
   ![Wireframe 5](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe5.png)
   
 - **Development:**
-  Build the website using HTML, CSS, and JavaScript. Using also the bootstrap framework, icons from fontawesome.com andfonts from googlefonts.com.
+  Build the website using HTML, CSS, and JavaScript. Using also the bootstrap framework, icons from fontawesome.com andfonts from googlefonts.com. Also use Balsamiq for the wireframes.
   
 - **Content Creation:**
   Collect information and photos of the cats alongside images of the interior of the café.
@@ -43,6 +54,20 @@ To ensure a smooth development process, we have outlined the following steps and
   Review the site for usability, responsiveness, and bug fixes across different devices and browsers.
   Use lighthouse to check the performance, accessability and practises of the webpages.
   Validate all HTML and CSS code.
+
+  **Screenshots of the testing results**
+
+  Lighthouse result on Mobile
+  ![Lighthouse 1](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/lighthouse1.png)
+
+  Lighthouse result on Desktop
+  ![Lighthouse 2](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/lighthouse2.png)
+  
+  HTML Validation
+  ![HTML-Validation](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/html-validation.png)
+
+  CSS Validation
+  ![CSS-Validation](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/css-validation.png)
   
 - **Deployment:**
   Host the site using GitHub Pages and share it with the community.
@@ -64,6 +89,7 @@ To ensure a smooth development process, we have outlined the following steps and
 - **Boostrap 5.3**
 - **Google Fonts**
 - **Font awesome**
+- **Balsamiq**
 
 ## Live Website
 
