@@ -36,7 +36,7 @@ To ensure a smooth development process, we have outlined the following steps and
   
   I want to be able to see the prices, menu options and opening times on the homepage of the website.
   
-- **##Design:** Create wireframes and mockups for the site’s layout using Balsamiq, focusing on accessibility and visual appeal. (wireframes presented below)
+- **#Design:** Create wireframes and mockups for the site’s layout using Balsamiq, focusing on accessibility and visual appeal. (wireframes presented below)
 
   **Screenshots of the wireframes that show the website from a mobile and desktop view**
 
