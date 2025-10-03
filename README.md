@@ -51,7 +51,7 @@ To ensure smooth development, we followed these steps and milestones:
   ![Wireframe 5](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe5.png)
 
 - **Development:**  
-  Built the website using HTML, CSS, and JavaScript, along with the Bootstrap framework. Icons are provided by Font Awesome, fonts from Google Fonts, and the color palette from Coolor.
+  Built the website using HTML, CSS, and JavaScript, along with the Bootstrap framework. Icons are provided by Font Awesome, fonts from Google Fonts, and the color palette from Coolors.
 
   Chosen color palette from Coolor:  
   ![colours](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/coolors.png)
@@ -90,11 +90,11 @@ To ensure smooth development, we followed these steps and milestones:
 - **HTML**
 - **CSS**
 - **JavaScript** (minimal usage for interactivity)
-- **Bootstrap 5.3**
-- **Google Fonts**
-- **Font Awesome**
-- **Balsamiq**
-- **Coolor**
+- **[Bootstrap 5.3](https://getbootstrap.com/)**
+- **[Google Fonts](https://fonts.google.com/)**
+- **[Font Awesome](https://fontawesome.com/)**
+- **[Balsamiq](https://balsamiq.com/)**
+- **[Coolors](https://coolors.co/)**
 
 ## Testing
 
