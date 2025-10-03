@@ -26,7 +26,7 @@ To ensure smooth development, we followed these steps and milestones:
   - I want a user-friendly design and a website that looks great on all screen sizes, so I can quickly find the information I need without frustration.
   - I want a strong first impression, with a hero page that grabs my attention.
   - I want to know the cat cafe's location, phone number, email address, and social media pages so I can learn more about the cafe.
-  - I want a dedicated gallery page to see the cats who live at the cafe.
+  - I want a dedicated gallery page to see the cats who lives at the cafe.
   - I want to be able to book a time to visit a specific cat.
   - I want a quick way to send direct feedback or questions about the cat cafe.
   - I want to see prices, menu options, and opening times directly on the homepage.
