@@ -81,6 +81,7 @@ To ensure a smooth development process, we have outlined the following steps and
 - Learn about who we are and our menu and opening times
 
   ![about1](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/about-cards.png)
+  ![about2](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/about-cards2.png)
 
 ## Technologies/Resources Used
 
