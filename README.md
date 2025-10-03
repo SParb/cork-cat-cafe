@@ -1,12 +1,21 @@
 # Cork Cat Cafe
 
+## Table of Contents
+
+- [About](#about)
+- [Project Planning](#project-planning)
+  - [Design](#design)
+- [Features](#features)
+- [Technologies/Resources Used](#technologiesresources-used)
+- [Testing](#testing)
+- [Live Website](#live-website)
+- [The Cats](#the-cats)
+
 Welcome to the Cork Cat Cafe website! This project is designed for cat lovers in Cork city who want to enjoy a relaxing coffeehouse experience while hanging out with friendly cats.
 
 ## About
 
-The Cork Cat Cafe is a unique destination where guests can sip coffee, enjoy delicious food, and spend time with adorable resident cats. Whether you're a cat enthusiast or just looking for a cozy p[...]  
-
-## Project Planning
+The Cork Cat Cafe is a unique destination where guests can sip coffee, enjoy delicious food, and spend time with adorable resident cats. Whether you're a cat enthusiast or just looking for a cozy p...## Project Planning
 
 To ensure a smooth development process, we have outlined the following steps and milestones:
 
