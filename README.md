@@ -50,25 +50,6 @@ To ensure a smooth development process, we have outlined the following steps and
 - **Content Creation:**
   Collect information and photos of the cats alongside images of the interior of the café.
   
-- **Testing:**
-  Review the site for usability, responsiveness, and bug fixes across different devices and browsers.
-  Use lighthouse to check the performance, accessability and practises of the webpages.
-  Validate all HTML and CSS code.
-
-  **Screenshots of the testing results**
-
-  Lighthouse result on Mobile
-  ![Lighthouse 1](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/lighthouse1.png)
-
-  Lighthouse result on Desktop
-  ![Lighthouse 2](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/lighthouse2.png)
-  
-  HTML Validation
-  ![HTML-Validation](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/html-validation.png)
-
-  CSS Validation
-  ![CSS-Validation](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/css-validation.png)
-  
 - **Deployment:**
   Host the site using GitHub Pages and share it with the community.
   
@@ -90,6 +71,26 @@ To ensure a smooth development process, we have outlined the following steps and
 - **Google Fonts**
 - **Font awesome**
 - **Balsamiq**
+
+## Testing
+  Review the site for usability, responsiveness, and bug fixes across different devices and browsers.
+  Use lighthouse to check the performance, accessability and practises of the webpages.
+  Validate all HTML and CSS code.
+
+  **Screenshots of the testing results**
+
+  Lighthouse result on Mobile
+  ![Lighthouse 1](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/lighthouse1.png)
+
+  Lighthouse result on Desktop
+  ![Lighthouse 2](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/lighthouse2.png)
+  
+  HTML Validation
+  ![HTML-Validation](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/html-validation.png)
+
+  CSS Validation
+  ![CSS-Validation](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/css-validation.png)
+  
 
 ## Live Website
 
