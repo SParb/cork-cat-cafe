@@ -61,6 +61,10 @@ To ensure a smooth development process, we have outlined the following steps and
   
 - **Development:**
   Build the website using HTML, CSS, and JavaScript. Using also the bootstrap framework, icons from fontawesome.com, fonts from googlefonts.com and a colour pallete from coolor.com.
+
+  Chosen colour palette from Coolor
+
+  ![colours](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/coolors.png)
   
 - **Content Creation:**
   Collect information and photos of the cats alongside images of the interior of the café.
