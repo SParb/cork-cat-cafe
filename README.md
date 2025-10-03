@@ -1,6 +1,6 @@
 # Cork Cat Cafe
 
-Welcome to the Cork Cat Cafe website! This project is designed for cat lovers in Cork city who want to enjoy a relaxing coffeehouse experience while hanging out with friendly cats.
+Welcome to the Cork Cat Cafe website! This project is designed for cat lovers in Cork city who want to enjoy a relaxing coffeehouse experience while spending time with friendly cats.
 
 ![hero](https://github.com/SParb/cork-cat-cafe/blob/main/assets/images/Cat-cafe-3.jpg)
 
@@ -16,86 +16,73 @@ Welcome to the Cork Cat Cafe website! This project is designed for cat lovers in
 
 ## About
 
-The Cork Cat Cafe is a unique destination where guests can sip coffee, enjoy delicious food, and spend time with adorable resident cats. Whether you're a cat enthusiast or just looking for a cozy p...## Project Planning
+The Cork Cat Cafe is a unique destination where guests can sip coffee, enjoy delicious food, and spend time with adorable resident cats. Whether you're a cat enthusiast or simply looking for a cozy spot to relax, our cafe offers the perfect setting.
 
 ## Project Planning
 
-To ensure a smooth development process, we have outlined the following steps and milestones:
+To ensure smooth development, we followed these steps and milestones:
 
 - **User Stories:**
-  I want a user friendly design and want the display of the website to look good on all screen sizes so I can find the information I want quickly and without frustration.
-  
-  I want a good first impression and having a hero page to grab my attention.
-  
-  I want to know the cat cafe's location, phone number, email address and social media pages. So I can learn more about the cat café.
-  
-  I want a dedicated gallery page where I can see the cats who live at the café.
-  
-  I want to be able to book a time to see a specific cat.
-  
-  I want a way to quickly send a direct message for feedback or questions about the cat café.
-  
-  I want to be able to see the prices, menu options and opening times on the homepage of the website.
-  
-- **Design:** Create wireframes and mockups for the site’s layout using Balsamiq, focusing on accessibility and visual appeal. (wireframes presented below)
+  - I want a user-friendly design and a website that looks great on all screen sizes, so I can quickly find the information I need without frustration.
+  - I want a strong first impression, with a hero page that grabs my attention.
+  - I want to know the cat cafe's location, phone number, email address, and social media pages so I can learn more about the cafe.
+  - I want a dedicated gallery page to see the cats who live at the cafe.
+  - I want to be able to book a time to visit a specific cat.
+  - I want a quick way to send direct feedback or questions about the cat cafe.
+  - I want to see prices, menu options, and opening times directly on the homepage.
 
-  **Screenshots of the wireframes that show the website from a mobile and desktop view**
+- **Design:** Created wireframes and mockups for the site layout using Balsamiq, focusing on accessibility and visual appeal. (Wireframes presented below)
 
-  Homepage
+  **Screenshots of the wireframes showing the website on mobile and desktop:**
   
+  Homepage  
   ![Wireframe 1](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe1.png)
 
-  Contact page
-  
+  Contact page  
   ![Wireframe 2](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe2.png)
 
-  Gallery page
-  
+  Gallery page  
   ![Wireframe 3](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe3.png)
 
-  Form success page
-  
+  Form success page  
   ![Wireframe 4](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe4.png)
 
-  Booking page
-  
+  Booking page  
   ![Wireframe 5](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe5.png)
-  
-- **Development:**
-  Build the website using HTML, CSS, and JavaScript. Using also the bootstrap framework, icons from fontawesome.com, fonts from googlefonts.com and a colour pallete from coolor.com.
 
-  Chosen colour palette from Coolor
+- **Development:**  
+  Built the website using HTML, CSS, and JavaScript, along with the Bootstrap framework. Icons are provided by Font Awesome, fonts from Google Fonts, and the color palette from Coolor.
 
+  Chosen color palette from Coolor:  
   ![colours](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/coolors.png)
-  
-- **Content Creation:**
-  Collect information and photos of the cats alongside images of the interior of the café these images can be found in assets/images/.
-  
-- **Deployment:**
-  Host the site using GitHub Pages and share it with the community.
-  
-- **Feedback & Iteration:**
-  Gather user feedback and continue improving features and content.
+
+- **Content Creation:**  
+  Gathered information and photos of the resident cats and the cafe interior. Images can be found in assets/images/.
+
+- **Deployment:**  
+  Hosted the site using GitHub Pages and shared it with the community.
+
+- **Feedback & Iteration:**  
+  Gathered user feedback to continuously improve features and content.
 
 ## Features
 
--Using the bootstrap framework the whole website and pages are responsive and are easy to use and navigate on mobile and desktop devices.
-
-- See our hero image and short introduction. See the responsive navigation bar always stuck at the top of the web pages.
-
+- The entire website is responsive and easy to navigate on both mobile and desktop devices, thanks to Bootstrap.
+- Enjoy our hero image and a short introduction. The responsive navigation bar remains visible at the top of every page.
+  
   ![home](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/homepage.png)
 
-- See photos and details of the cats you’ll meet.
-
+- Browse photos and details of the cats you’ll meet.
+  
   ![gallery](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/gallery.png)
   
-- Learn about who we are and our menu and opening times.
-
+- Learn about us, our menu, and opening times.
+  
   ![about1](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/about-cards.png)
   ![about2](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/about-cards2.png)
 
-- See our contact details or contact us directly via message.
-
+- Find our contact details or get in touch directly via message.
+  
   ![contact-details](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/footer.png)
 
 ## Technologies/Resources Used
@@ -103,35 +90,31 @@ To ensure a smooth development process, we have outlined the following steps and
 - **HTML**
 - **CSS**
 - **JavaScript** (minimal usage for interactivity)
-- **Boostrap 5.3**
+- **Bootstrap 5.3**
 - **Google Fonts**
-- **Font awesome**
+- **Font Awesome**
 - **Balsamiq**
 - **Coolor**
 
 ## Testing
-  Review the site for usability, responsiveness, and bug fixes across different devices and browsers.
-  Use lighthouse to check the performance, accessability and practises of the webpages.
-  Validate all HTML and CSS code.
 
-  **Screenshots of the testing results**
+- Reviewed the site for usability, responsiveness, and bugs across different devices and browsers.
+- Used Lighthouse to check performance, accessibility, and best practices.
+- Validated all HTML and CSS code.
 
-  Lighthouse result on Mobile devices.
-  
+  **Screenshots of test results:**
+
+  Lighthouse results on mobile:  
   ![Lighthouse 1](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/lighthouse1.png)
 
-  Lighthouse result on Desktop.
-  
+  Lighthouse results on desktop:  
   ![Lighthouse 2](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/lighthouse2.png)
-  
-  HTML Validation.
-  
+
+  HTML validation:  
   ![HTML-Validation](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/html-validation.png)
 
-  CSS Validation.
-  
+  CSS validation:  
   ![CSS-Validation](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/css-validation.png)
-  
 
 ## Live Website
 
@@ -139,7 +122,7 @@ Visit the website: https://sparb.github.io/cork-cat-cafe/
 
 ## The Cats
 
-The stars of the cafe! Each cat has its own personality and story. Come visit and meet them all.
+The stars of the cafe! Each cat has its own personality and story. Come visit and meet them all.  
 https://sparb.github.io/cork-cat-cafe/gallery.html
 
 ---
