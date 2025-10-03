@@ -12,11 +12,17 @@ To ensure a smooth development process, we have outlined the following steps and
 
 - **User Stories:**
   I want a user friendly design and want the display of the website to look good on all screen sizes so I can find the information I want quickly and without frustration.
+  
   I want a good first impression and having a hero page to grab my attention.
+  
   I want to know the cat cafe's location, phone number, email address and social media pages. So I can learn more about the cat café.
+  
   I want a dedicated gallery page where I can see the cats who live at the café.
+  
   I want to be able to book a time to see a specific cat.
+  
   I want a way to quickly send a direct message for feedback or questions about the cat café.
+  
   I want to be able to see the prices, menu options and opening times on the homepage of the website.
   
 - **Design:** Create wireframes and mockups for the site’s layout, focusing on accessibility and visual appeal. (wireframes presented below)
