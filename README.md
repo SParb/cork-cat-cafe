@@ -30,18 +30,23 @@ To ensure a smooth development process, we have outlined the following steps and
   **Screenshots of the wireframes that show the website from a mobile and desktop view**
 
   Homepage
+  
   ![Wireframe 1](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe1.png)
 
   Contact page
+  
   ![Wireframe 2](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe2.png)
 
   Gallery page
+  
   ![Wireframe 3](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe3.png)
 
   Form success page
+  
   ![Wireframe 4](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe4.png)
 
   Booking page
+  
   ![Wireframe 5](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe5.png)
   
 - **Development:**
@@ -80,15 +85,19 @@ To ensure a smooth development process, we have outlined the following steps and
   **Screenshots of the testing results**
 
   Lighthouse result on Mobile
+  
   ![Lighthouse 1](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/lighthouse1.png)
 
   Lighthouse result on Desktop
+  
   ![Lighthouse 2](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/lighthouse2.png)
   
   HTML Validation
+  
   ![HTML-Validation](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/html-validation.png)
 
   CSS Validation
+  
   ![CSS-Validation](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/css-validation.png)
   
 
