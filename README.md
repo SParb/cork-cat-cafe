@@ -73,7 +73,6 @@ To ensure a smooth development process, we have outlined the following steps and
 
 ## Features
 
-- Browse information about our cats and cafe offerings
 - See photos and details of the cats you’ll meet
 
   ![gallery](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/gallery.png)
@@ -82,6 +81,10 @@ To ensure a smooth development process, we have outlined the following steps and
 
   ![about1](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/about-cards.png)
   ![about2](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/about-cards2.png)
+
+- See our contact details or contact us directly via message.
+
+  ![contact-details](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/footer.png)
 
 ## Technologies/Resources Used
 
