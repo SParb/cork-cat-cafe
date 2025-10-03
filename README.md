@@ -1,5 +1,7 @@
 # Cork Cat Cafe
 
+Welcome to the Cork Cat Cafe website! This project is designed for cat lovers in Cork city who want to enjoy a relaxing coffeehouse experience while hanging out with friendly cats.
+
 ![hero](https://github.com/SParb/cork-cat-cafe/blob/main/assets/images/Cat-cafe-3.jpg)
 
 ## Table of Contents
@@ -11,8 +13,6 @@
 - [Testing](#testing)
 - [Live Website](#live-website)
 - [The Cats](#the-cats)
-
-Welcome to the Cork Cat Cafe website! This project is designed for cat lovers in Cork city who want to enjoy a relaxing coffeehouse experience while hanging out with friendly cats.
 
 ## About
 
