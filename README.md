@@ -26,6 +26,7 @@ To ensure a smooth development process, we have outlined the following steps and
   I want to be able to see the prices, menu options and opening times on the homepage of the website.
   
 - **Design:** Create wireframes and mockups for the site’s layout, focusing on accessibility and visual appeal. (wireframes presented below)
+  
   ![Wireframe 1](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe1.png)
   ![Wireframe 2](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe2.png)
   ![Wireframe 3](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe3.png)
@@ -71,7 +72,8 @@ Visit the website: https://sparb.github.io/cork-cat-cafe/
 ## The Cats
 
 The stars of the cafe! Each cat has its own personality and story. Come visit and meet them all.
+https://sparb.github.io/cork-cat-cafe/gallery.html
 
 ---
 
-Thank you for checking out our project!
+Thank you for checking out my project!
