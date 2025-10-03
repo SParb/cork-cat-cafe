@@ -116,10 +116,10 @@ To ensure smooth development, we followed these steps and milestones:
   Lighthouse results on desktop:  
   ![Lighthouse 2](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/lighthouse2.png)
 
-  HTML validation:  
+  [HTML validation:](https://validator.w3.org/)  
   ![HTML-Validation](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/html-validation.png)
 
-  CSS validation:  
+  [CSS validation:](https://jigsaw.w3.org/css-validator/) 
   ![CSS-Validation](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/css-validation.png)
 
 ## Live Website
