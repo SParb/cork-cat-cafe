@@ -85,6 +85,12 @@ To ensure smooth development, we followed these steps and milestones:
   
   ![contact-details](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/footer.png)
 
+-Booking and contact us pages with a success page to tell the user the form was submitted successfully.
+
+  ![booking](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/booking.png)
+  ![contact](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/contact.png)
+  ![success](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/success.png)
+
 ## Technologies/Resources Used
 
 - **HTML**
