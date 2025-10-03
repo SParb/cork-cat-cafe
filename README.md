@@ -79,15 +79,17 @@ To ensure a smooth development process, we have outlined the following steps and
 
 ## Features
 
+-Using the bootstrap framework the whole website and pages are responsive and are easy to use and navigate on mobile and desktop devices.
+
 - See our hero image and short introduction. See the responsive navigation bar always stuck at the top of the web pages.
 
   ![home](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/homepage.png)
 
-- See photos and details of the cats you’ll meet
+- See photos and details of the cats you’ll meet.
 
   ![gallery](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/gallery.png)
   
-- Learn about who we are and our menu and opening times
+- Learn about who we are and our menu and opening times.
 
   ![about1](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/about-cards.png)
   ![about2](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/about-cards2.png)
@@ -114,19 +116,19 @@ To ensure a smooth development process, we have outlined the following steps and
 
   **Screenshots of the testing results**
 
-  Lighthouse result on Mobile
+  Lighthouse result on Mobile devices.
   
   ![Lighthouse 1](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/lighthouse1.png)
 
-  Lighthouse result on Desktop
+  Lighthouse result on Desktop.
   
   ![Lighthouse 2](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/lighthouse2.png)
   
-  HTML Validation
+  HTML Validation.
   
   ![HTML-Validation](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/html-validation.png)
 
-  CSS Validation
+  CSS Validation.
   
   ![CSS-Validation](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/css-validation.png)
   
