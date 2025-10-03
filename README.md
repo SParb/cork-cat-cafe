@@ -55,11 +55,14 @@ To ensure a smooth development process, we have outlined the following steps and
 - See photos and details of the cats you’ll meet
 - Learn about our menu and upcoming events
 
-## Technologies Used
+## Technologies/Resources Used
 
 - **HTML**
 - **CSS**
 - **JavaScript** (minimal usage for interactivity)
+- **Boostrap 5.3**
+- **Google Fonts**
+- **Font awesome**
 
 ## Live Website
 
