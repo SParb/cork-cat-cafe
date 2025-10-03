@@ -31,13 +31,23 @@ To ensure a smooth development process, we have outlined the following steps and
   ![Wireframe 3](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe3.png)
   ![Wireframe 4](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe4.png)
   ![Wireframe 5](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe5.png)
-- **Development:** Build the website using HTML, CSS, and JavaScript. Implement interactive elements and responsive design.
-- **Content Creation:** Collect information and photos of the cats, develop engaging menu descriptions, and write event details.
-- **Testing:** Review the site for usability, responsiveness, and bug fixes across different devices and browsers.
-- **Deployment:** Host the site using GitHub Pages and share it with the community.
-- **Feedback & Iteration:** Gather user feedback and continue improving features and content.
-
-This structured planning helps keep the project organized and ensures all essential parts are delivered.
+  
+- **Development:**
+  Build the website using HTML, CSS, and JavaScript. Using also the bootstrap framework, icons from fontawesome.com andfonts from googlefonts.com.
+  
+- **Content Creation:**
+  Collect information and photos of the cats alongside images of the interior of the café.
+  
+- **Testing:**
+  Review the site for usability, responsiveness, and bug fixes across different devices and browsers.
+  Use lighthouse to check the performance, accessability and practises of the webpages.
+  Validate all HTML and CSS code.
+  
+- **Deployment:**
+  Host the site using GitHub Pages and share it with the community.
+  
+- **Feedback & Iteration:**
+  Gather user feedback and continue improving features and content.
 
 ## Features
 
