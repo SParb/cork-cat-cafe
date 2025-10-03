@@ -11,7 +11,12 @@ The Cork Cat Cafe is a unique destination where guests can sip coffee, enjoy del
 To ensure a smooth development process, we have outlined the following steps and milestones:
 
 - **Requirements Gathering:** Define the core features, content, and user experience for the Cork Cat Cafe website.
-- **Design:** Create wireframes and mockups for the site’s layout, focusing on accessibility and visual appeal.
+- **Design:** Create wireframes and mockups for the site’s layout, focusing on accessibility and visual appeal. (wireframes presented below)
+  ![Wireframe 1](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe1.png)
+  ![Wireframe 2](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe2.png)
+  ![Wireframe 3](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe3.png)
+  ![Wireframe 4](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe4.png)
+  ![Wireframe 5](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/wireframe5.png)
 - **Development:** Build the website using HTML, CSS, and JavaScript. Implement interactive elements and responsive design.
 - **Content Creation:** Collect information and photos of the cats, develop engaging menu descriptions, and write event details.
 - **Testing:** Review the site for usability, responsiveness, and bug fixes across different devices and browsers.
