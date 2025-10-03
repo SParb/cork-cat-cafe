@@ -17,6 +17,8 @@ Welcome to the Cork Cat Cafe website! This project is designed for cat lovers in
 
 The Cork Cat Cafe is a unique destination where guests can sip coffee, enjoy delicious food, and spend time with adorable resident cats. Whether you're a cat enthusiast or just looking for a cozy p...## Project Planning
 
+## Project Planning
+
 To ensure a smooth development process, we have outlined the following steps and milestones:
 
 - **User Stories:**
