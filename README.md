@@ -4,7 +4,21 @@ Welcome to the Cork Cat Cafe website! This project is designed for cat lovers in
 
 ## About
 
-The Cork Cat Cafe is a unique destination where guests can sip coffee, enjoy delicious food, and spend time with adorable resident cats. Whether you're a cat enthusiast or just looking for a cozy place to unwind, our cafe offers the purrfect atmosphere.
+The Cork Cat Cafe is a unique destination where guests can sip coffee, enjoy delicious food, and spend time with adorable resident cats. Whether you're a cat enthusiast or just looking for a cozy p[...]  
+
+## Project Planning
+
+To ensure a smooth development process, we have outlined the following steps and milestones:
+
+- **Requirements Gathering:** Define the core features, content, and user experience for the Cork Cat Cafe website.
+- **Design:** Create wireframes and mockups for the site’s layout, focusing on accessibility and visual appeal.
+- **Development:** Build the website using HTML, CSS, and JavaScript. Implement interactive elements and responsive design.
+- **Content Creation:** Collect information and photos of the cats, develop engaging menu descriptions, and write event details.
+- **Testing:** Review the site for usability, responsiveness, and bug fixes across different devices and browsers.
+- **Deployment:** Host the site using GitHub Pages and share it with the community.
+- **Feedback & Iteration:** Gather user feedback and continue improving features and content.
+
+This structured planning helps keep the project organized and ensures all essential parts are delivered.
 
 ## Features
 
