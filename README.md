@@ -1,5 +1,7 @@
 # Cork Cat Cafe
 
+![hero](https://github.com/SParb/cork-cat-cafe/blob/main/assets/images/Cat-cafe-3.jpg)
+
 ## Table of Contents
 
 - [About](#about)
@@ -67,7 +69,7 @@ To ensure a smooth development process, we have outlined the following steps and
   ![colours](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/coolors.png)
   
 - **Content Creation:**
-  Collect information and photos of the cats alongside images of the interior of the café.
+  Collect information and photos of the cats alongside images of the interior of the café these images can be found in assets/images/.
   
 - **Deployment:**
   Host the site using GitHub Pages and share it with the community.
@@ -76,6 +78,10 @@ To ensure a smooth development process, we have outlined the following steps and
   Gather user feedback and continue improving features and content.
 
 ## Features
+
+- See our hero image and short introduction. See the responsive navigation bar always stuck at the top of the web pages.
+
+  ![home](https://github.com/SParb/cork-cat-cafe/blob/main/readme-resources/homepage.png)
 
 - See photos and details of the cats you’ll meet
 
